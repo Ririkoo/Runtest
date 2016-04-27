@@ -26,8 +26,8 @@ teams = {
 ```python
 ts = runtest.Tester(mode, phase , num)
 ```
-mode:`"it"`,`"nt"`
-phase: `1` or `2`
+mode:`"it"`,`"nt"`;
+phase: `1` or `2`;
 num: data amount(>=1)
 
 * Change `cserver` and `client` file location in `Tester` class
